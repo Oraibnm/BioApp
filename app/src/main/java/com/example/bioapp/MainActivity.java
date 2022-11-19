@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
     private  void test () {
      btn = findViewById(R.id.Addbutton);
      textView = findViewById(R.id.textView);
-
+     editText = findViewById(R.id.editText);
     }
 }
